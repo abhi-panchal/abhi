@@ -1,3 +1,4 @@
+//add new feature
 let gameSeq = [];
 let userSeq = [];
 let btns = ["red", "yellow",  "green","purple"];
